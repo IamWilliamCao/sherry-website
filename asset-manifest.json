@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sherry-website/static/css/main.7c98740e.css",
+    "main.js": "/sherry-website/static/js/main.306a596b.js",
+    "static/js/453.124c36ed.chunk.js": "/sherry-website/static/js/453.124c36ed.chunk.js",
+    "static/media/fleur-de-leah-latin-400-normal.woff2": "/sherry-website/static/media/fleur-de-leah-latin-400-normal.5837d2fe0bfd66873999.woff2",
+    "static/media/fleur-de-leah-latin-ext-400-normal.woff2": "/sherry-website/static/media/fleur-de-leah-latin-ext-400-normal.814e637d5ade3b622716.woff2",
+    "static/media/fleur-de-leah-latin-400-normal.woff": "/sherry-website/static/media/fleur-de-leah-latin-400-normal.7124096c3d42a8fc3055.woff",
+    "static/media/fleur-de-leah-latin-ext-400-normal.woff": "/sherry-website/static/media/fleur-de-leah-latin-ext-400-normal.2ae998667f86f814e9e7.woff",
+    "static/media/fleur-de-leah-vietnamese-400-normal.woff2": "/sherry-website/static/media/fleur-de-leah-vietnamese-400-normal.c21c3c62f4ea321aad5e.woff2",
+    "static/media/fleur-de-leah-vietnamese-400-normal.woff": "/sherry-website/static/media/fleur-de-leah-vietnamese-400-normal.184d96cbcd788e1718f2.woff",
+    "index.html": "/sherry-website/index.html",
+    "main.7c98740e.css.map": "/sherry-website/static/css/main.7c98740e.css.map",
+    "main.306a596b.js.map": "/sherry-website/static/js/main.306a596b.js.map",
+    "453.124c36ed.chunk.js.map": "/sherry-website/static/js/453.124c36ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c98740e.css",
+    "static/js/main.306a596b.js"
+  ]
+}
